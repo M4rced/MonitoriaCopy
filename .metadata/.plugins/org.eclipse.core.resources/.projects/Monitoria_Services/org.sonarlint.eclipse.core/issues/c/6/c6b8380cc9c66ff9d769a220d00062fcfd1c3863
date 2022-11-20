@@ -1,0 +1,63 @@
+
+m
+java:S1106"AMove this left curly brace to the beginning of next line of code.(²šÄòHíRMINORZ
+CODE_SMELL
+l
+java:S2221"4Catch a list of specific exception subtypes instead.(ôĞ’ºùÿÿÿÿ8ìµ”É0H…)RMINORZ
+CODE_SMELL
+p
+java:S1120 "DMake this line start after 6 spaces to indent the code consistently.(ÿÜ¿­HêRMINORZ
+CODE_SMELL
+^
+java:S1108"2Move this "catch" keyword to a new dedicated line.(²šÄòHöRMINORZ
+CODE_SMELL
+`
+java:S1108"4Move this "finally" keyword to a new dedicated line.(Úîø›H÷RMINORZ
+CODE_SMELL
+r
+java:S1106"AMove this left curly brace to the beginning of next line of code.(‘í¬²ıÿÿÿÿHëRMINORZ
+CODE_SMELL
+u
+java:S1120"DMake this line start after 6 spaces to indent the code consistently.(ëº‹ßùÿÿÿÿHæRMINORZ
+CODE_SMELL
+m
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Úîø›HñRMINORZ
+CODE_SMELL
+c
+java:S1108"2Move this "catch" keyword to a new dedicated line.(ÃùÅøÿÿÿÿHõRMINORZ
+CODE_SMELL
+r
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ÃùÅøÿÿÿÿHğRMINORZ
+CODE_SMELL
+h	java:S105"EReplace all tab characters in this file by sequences of white-spaces.HóRMINORZ
+CODE_SMELL
+r
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ôĞ’ºùÿÿÿÿHîRMINORZ
+CODE_SMELL
+p
+java:S1120"DMake this line start after 2 spaces to indent the code consistently.(‘’•âHäRMINORZ
+CODE_SMELL
+c
+java:S1108"2Move this "catch" keyword to a new dedicated line.(ôĞ’ºùÿÿÿÿHôRMINORZ
+CODE_SMELL
+L
+java:S1451"&Add or update the header of this file.HòRBLOCKERZ
+CODE_SMELL
+u
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(¡»¢üùÿÿÿÿHåRMINORZ
+CODE_SMELL
+u
+java:S1120"DMake this line start after 6 spaces to indent the code consistently.(‘×µıÿÿÿÿHéRMINORZ
+CODE_SMELL
+m
+java:S1106"AMove this left curly brace to the beginning of next line of code.(½Ì€£HìRMINORZ
+CODE_SMELL
+u
+java:S1120"DMake this line start after 6 spaces to indent the code consistently.(‘×µıÿÿÿÿHèRMINORZ
+CODE_SMELL
+u
+java:S1120"DMake this line start after 6 spaces to indent the code consistently.(‘×µıÿÿÿÿHçRMINORZ
+CODE_SMELL
+r
+java:S1106"AMove this left curly brace to the beginning of next line of code.(¡»¢üùÿÿÿÿHïRMINORZ
+CODE_SMELL

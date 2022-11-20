@@ -1,0 +1,74 @@
+
+o
+java:S1120"DMake this line start after 2 spaces to indent the code consistently.(¿ööHÿRMINORZ
+CODE_SMELL
+p
+java:S1120
+"DMake this line start after 4 spaces to indent the code consistently.(à·¨ıH€RMINORZ
+CODE_SMELL
+p
+java:S1120"DMake this line start after 8 spaces to indent the code consistently.(ñ´ÇHRMINORZ
+CODE_SMELL
+u
+java:S1120"DMake this line start after 8 spaces to indent the code consistently.(è§‚¥ùÿÿÿÿH‚RMINORZ
+CODE_SMELL
+o
+java:S1120"DMake this line start after 8 spaces to indent the code consistently.(ñ®šHƒRMINORZ
+CODE_SMELL
+u
+java:S1120"DMake this line start after 8 spaces to indent the code consistently.(Ã¹®šıÿÿÿÿH„RMINORZ
+CODE_SMELL
+o
+java:S1120"DMake this line start after 8 spaces to indent the code consistently.(ìİÏGH…RMINORZ
+CODE_SMELL
+o
+java:S1120"DMake this line start after 8 spaces to indent the code consistently.(–ãH†RMINORZ
+CODE_SMELL
+u
+java:S1120"DMake this line start after 8 spaces to indent the code consistently.(¼¸â‰ùÿÿÿÿH‡RMINORZ
+CODE_SMELL
+p
+java:S1120"DMake this line start after 8 spaces to indent the code consistently.(–’ùåHˆRMINORZ
+CODE_SMELL
+	java:S118"^Rename this abstract class name to match the regular expression '^Abstract[A-Z][a-zA-Z0-9]*$'.(ƒ³¶éşÿÿÿÿH‰RMINORZ
+CODE_SMELL
+v	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(è§‚¥ùÿÿÿÿHŠRMAJORZ
+CODE_SMELL
+p	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ñ®šH‹RMAJORZ
+CODE_SMELL
+v	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ã¹®šıÿÿÿÿHŒRMAJORZ
+CODE_SMELL
+p	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ìİÏGHRMAJORZ
+CODE_SMELL
+p	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(–ãHRMAJORZ
+CODE_SMELL
+v	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(¼¸â‰ùÿÿÿÿHRMAJORZ
+CODE_SMELL
+q	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(–’ùåHRMAJORZ
+CODE_SMELL
+ó
+java:S1598"¾This file "DAOFactory.java" should be located in "edu\uco\monitoria\data\daofactory" directory, not in "C:\Users\Asus PC\OneDrive\Documentos\MonitoriaFinalDOO\Monitoria_Data\src\daofactory".(šŞ“ñüÿÿÿÿH‘RCRITICALZ
+CODE_SMELL
+r
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ƒ³¶éşÿÿÿÿH’RMINORZ
+CODE_SMELL
+l
+java:S1106"AMove this left curly brace to the beginning of next line of code.(¿ööH“RMINORZ
+CODE_SMELL
+m
+java:S1106"AMove this left curly brace to the beginning of next line of code.(®®ÎÂH”RMINORZ
+CODE_SMELL
+L
+java:S1451"&Add or update the header of this file.H•RBLOCKERZ
+CODE_SMELL
+h	java:S105"EReplace all tab characters in this file by sequences of white-spaces.H–RMINORZ
+CODE_SMELL
+b
+java:S2208".Explicitly import the specific classes needed.(øğ¤ÚúÿÿÿÿH—RCRITICALZ
+CODE_SMELL
+a
+java:S5194"5Use "switch" expression to set value of "daoFactory".(®®ÎÂH˜RMINORZ
+CODE_SMELL
+M
+java:S1116,"Remove this empty statement.(Åñ­õşÿÿÿÿH™RMINORZ
+CODE_SMELL

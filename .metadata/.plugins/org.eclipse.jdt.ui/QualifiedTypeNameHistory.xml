@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="edu.uco.monitoria.domain.MonitorDTO"/>
+    <fullyQualifiedTypeName name="edu.uco.monitoria.data.daofactory.DAOFactory"/>
+    <fullyQualifiedTypeName name="edu.uco.monitoria.data.enumeration.DAOFactoryType"/>
+</qualifiedTypeNameHistroy>

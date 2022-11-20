@@ -1,0 +1,23 @@
+
+u
+java:S1120"DMake this line start after 2 spaces to indent the code consistently.(À¯¡ÀûÿÿÿÿHøRMINORZ
+CODE_SMELL
+u
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(¡ÅøóþÿÿÿÿHùRMINORZ
+CODE_SMELL
+u
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(íÓ¦¹ÿÿÿÿÿHúRMINORZ
+CODE_SMELL
+m
+java:S1106
+"AMove this left curly brace to the beginning of next line of code.(—‘ÅÖHûRMINORZ
+CODE_SMELL
+m
+java:S1106"AMove this left curly brace to the beginning of next line of code.(·Â„‘HüRMINORZ
+CODE_SMELL
+m
+java:S1106"AMove this left curly brace to the beginning of next line of code.(«¤‹ïHýRMINORZ
+CODE_SMELL
+L
+java:S1451"&Add or update the header of this file.HþRBLOCKERZ
+CODE_SMELL

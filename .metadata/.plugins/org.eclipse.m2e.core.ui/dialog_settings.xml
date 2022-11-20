@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="wizardPage">
+		<list key="groupId">
+			<item value="edu.uco.monitoria"/>
+			<item value="edu.uco.monitoria.data"/>
+			<item value="Monitoria_Service"/>
+		</list>
+		<list key="name">
+			<item value="Monitoria_Services"/>
+			<item value="Monitoria_Domain"/>
+			<item value="Monitoria_Data"/>
+			<item value="Monitoria_Crosscutting"/>
+		</list>
+		<list key="artifactId">
+			<item value="Monitoria_Services"/>
+			<item value="Monitoria_Domain"/>
+			<item value="Monitoria_Data"/>
+			<item value="Monitoria_Crosscutting"/>
+			<item value="Monitoria_Service"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>

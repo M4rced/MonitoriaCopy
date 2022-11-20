@@ -1,0 +1,15 @@
+
+m
+java:S1106	"AMove this left curly brace to the beginning of next line of code.(Çµí‘H‡RMINORZ
+CODE_SMELL
+r
+java:S4604"GExclude from the auto-configuration mechanism the beans you don't need.(ûª¢FHŠRMAJORZ
+CODE_SMELL
+L
+java:S1451"&Add or update the header of this file.H‰RBLOCKERZ
+CODE_SMELL
+m
+java:S1106"AMove this left curly brace to the beginning of next line of code.(Ú¬‘©H†RMINORZ
+CODE_SMELL
+h	java:S105"EReplace all tab characters in this file by sequences of white-spaces.HˆRMINORZ
+CODE_SMELL

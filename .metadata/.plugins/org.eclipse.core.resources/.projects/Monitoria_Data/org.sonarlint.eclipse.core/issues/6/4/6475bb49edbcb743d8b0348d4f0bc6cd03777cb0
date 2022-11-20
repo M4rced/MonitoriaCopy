@@ -1,0 +1,45 @@
+
+p
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(¥¹ïHÛ(RMINORZ
+CODE_SMELL
+u
+java:S1120"DMake this line start after 4 spaces to indent the code consistently.(Ù”ú®şÿÿÿÿHÚ(RMINORZ
+CODE_SMELL
+r
+java:S1106"AMove this left curly brace to the beginning of next line of code.(®åë²ùÿÿÿÿHà(RMINORZ
+CODE_SMELL
+m
+java:S1106"AMove this left curly brace to the beginning of next line of code.(å¡ôßHß(RMINORZ
+CODE_SMELL
+m
+java:S1106"AMove this left curly brace to the beginning of next line of code.(ÓÎçHŞ(RMINORZ
+CODE_SMELL
+p
+java:S1120"DMake this line start after 2 spaces to indent the code consistently.(ÓÎçHÙ(RMINORZ
+CODE_SMELL
+µ
+java:S1186""€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÈÙ“íşÿÿÿÿHè(RCRITICALZ
+CODE_SMELL
+r
+java:S1106"AMove this left curly brace to the beginning of next line of code.(îòÀ±ıÿÿÿÿHÜ(RMINORZ
+CODE_SMELL
+m
+java:S1106"AMove this left curly brace to the beginning of next line of code.(õœ„ïHİ(RMINORZ
+CODE_SMELL
+r
+java:S1106""AMove this left curly brace to the beginning of next line of code.(ÈÙ“íşÿÿÿÿHá(RMINORZ
+CODE_SMELL
+h	java:S105"EReplace all tab characters in this file by sequences of white-spaces.Hã(RMINORZ
+CODE_SMELL
+L
+java:S1451"&Add or update the header of this file.Hâ(RBLOCKERZ
+CODE_SMELL
+°
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÓÎçHä(RCRITICALZ
+CODE_SMELL
+°
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(å¡ôßHæ(RCRITICALZ
+CODE_SMELL
+^
+java:S1168"+Return an empty collection instead of null.(¥¹ï8©ú®”É0H‚)RMAJORZ
+CODE_SMELL
